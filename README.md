@@ -59,7 +59,7 @@ Please place the training images in the `data/train` directory and the test imag
 │   ├── data
 │   │   ├── test_224.zip
 │   │   └── train_224.zip
-│   └── csv
+│   ├── csv
 │   │   ├── category.csv
 │   │   └── train.csv
 │   └── database

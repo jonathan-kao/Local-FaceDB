@@ -31,7 +31,7 @@ The primary aim of this project is to devise a facial recognition system that st
 
 2. **Directory Structure:** Organize your files following this directory tree structure to ensure that the scripts function correctly:
 
-```bash
+```
 ├── test_crop.py
 ├── train_crop.py
 ├── data
@@ -54,7 +54,7 @@ Please place the training images in the `data/train` directory and the test imag
 
 1. **Upload Zipped Images:** Upload the zipped image directories (`test_224.zip` and `train_224.zip`) to Google Drive. Follow this recommended directory structure in Google Drive to organize your project files:
 
-```bash
+```
 ├── Colab Notebooks
 │   ├── data
 │   │   ├── test_224.zip
